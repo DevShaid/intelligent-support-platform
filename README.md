@@ -1,6 +1,6 @@
 # 🎯 Support Intelligence Platform (ISTS)
 
-> **An enterprise-grade automated customer support system that uses N8N, OpenAI, and Supabase to intelligently triage, route, and respond to customer inquiries at scale.**
+> **An automated customer support system that uses N8N, OpenAI, and Supabase to intelligently triage, route, and respond to customer inquiries at scale.**
 
 
 ## 🚀 Project Overview
@@ -401,7 +401,7 @@ WITH daily_stats AS (
 SELECT * FROM daily_stats;
 ```
 
-**Slack Report:**
+**Slack Report (example format, sample data):**
 ```
 📊 Daily Support Metrics - Dec 15, 2024
 

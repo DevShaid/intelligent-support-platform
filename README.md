@@ -1,9 +1,9 @@
-# 🎯 Support Intelligence Platform (ISTS)
+# Support Intelligence Platform (ISTS)
 
 > **An automated customer support system that uses N8N, OpenAI, and Supabase to intelligently triage, route, and respond to customer inquiries at scale.**
 
 
-## 🚀 Project Overview
+## Project Overview
 
 ### The Concept
 
